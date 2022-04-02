@@ -7,6 +7,7 @@ const Heder = () => {
             <h1>Hello Bangladesh</h1>
             <nav>
                 <Link to="/">Home</Link>
+                <Link to="/posts">Posts</Link>
                 <Link to="/friends">Friends</Link>
 
             </nav>
